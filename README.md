@@ -43,6 +43,8 @@ Diseñar he implementar un eslabón adaptable el cual pueda modificar su longitu
 
 **Academics**
 
-1. Josh Newans, Making a Mobile Robot with ROS - Full list of tutorials, Articulated Robotics [Blog] (https://articulatedrobotics.xyz/mobile-robot-full-list/)
-2. Peña Medina Erik, Repositorio del proyecto [Repositorio] (https://github.com/mrg-mex/Proyecto_02_semestre_2023-1).
-3. Reporte de Semestre 2023-2, se encuentra en la carpeta de documentos de este repositorio
+1. Documentacion motor AX-18 [emanual] (https://emanual.robotis.com/docs/en/dxl/ax/ax-18a/)
+2. Documentacion DYNAMIXEL Shield [emanual] (https://emanual.robotis.com/docs/en/parts/interface/dynamixel_shield/)
+3. Datasheet Potenciometro lineal MD100AM2B (Carpeta Datasheet)
+4. Archivos de referencia (Carpeta de CAD)
+
