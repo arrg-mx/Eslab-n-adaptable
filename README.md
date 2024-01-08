@@ -15,11 +15,11 @@ Diseñar he implementar un eslabón adaptable el cual pueda modificar su longitu
 
 ## Desarrollo
 
-- [ ] Implementar un control de posición para el motor dinamixel AX-18 utilizando el dinamixel arduino Shield
+- [X] Implementar un control de posición para el motor dinamixel AX-18 utilizando el dinamixel arduino Shield
 - [ ] Implementar un control de posición para la junta prismática del eslabón empleando un potenciometro lineal.
 - [ ] Implementar un interfase de sensado de la acelación angular del robot y la corriente consumida por sus actuadores.
-- [ ] Diseñar los elementos de la estructura mecánica del eslabón adaptable para implementarlos en un entorno de simulación en Mathlab y/o ROS 2 Humble.
-- [ ] Construir físico un prototipo del eslabón adaptable.
+- [X] Diseñar los elementos de la estructura mecánica del eslabón adaptable para implementarlos en un entorno de simulación en Mathlab y/o ROS 2 Humble.
+- [X] Construir físico un prototipo del eslabón adaptable.
 - [ ] Realizar pruebas de funcionamiento del eslabón.
 
 
